@@ -17,4 +17,4 @@ As per the phpVMS license and the condition for using this skin, you must keep t
 5. Log in to the phpVMS admin center, navigate to ‘General Settings’, then select the ‘ela’ skin.
 
 # Contact
-If you have any comments, queries or suggestions, please feel free to email me at developer@fsvas.co.uk
+If you have any comments, queries or suggestions, please feel free to email me at carlosmfreitas05@gmail.com
